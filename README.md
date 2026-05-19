@@ -612,37 +612,37 @@ HMI에서는 서보 위치, 서보 속도, 경고 번호, 에러 번호, 소재 
 ### 동작 점검
 
 ```markdown
-[동작 점검 영상](./videos/operation_check.mp4)
+[동작 점검 영상](./gifs/operation_check.mp4)
 ```
 
 ### 자동 작업
 
 ```markdown
-[자동 작업 영상](./videos/auto_operation.mp4)
+[자동 작업 영상](./gifs/auto_operation.mp4)
 ```
 
 ### 선택 적재
 
 ```markdown
-[선택 적재 영상](./videos/selective_storage.mp4)
+[선택 적재 영상](./gifs/selective_storage.mp4)
 ```
 
 ### 전체 비움
 
 ```markdown
-[전체 비움 영상](./videos/full_empty.mp4)
+[전체 비움 영상](./gifs/full_empty.mp4)
 ```
 
 ### 선택 비움
 
 ```markdown
-[선택 비움 영상](./videos/selective_empty.mp4)
+[선택 비움 영상](./gifs/selective_empty.mp4)
 ```
 
 ### 비상 정지
 
 ```markdown
-[비상 정지 영상](./videos/emergency_stop.mp4)
+[비상 정지 영상](./gifs/emergency_stop.mp4)
 ```
 
 ---
@@ -664,26 +664,3 @@ HMI에서는 서보 위치, 서보 속도, 경고 번호, 에러 번호, 소재 
 - Tact Time 측정
 - HMI 기반 모니터링 및 파라미터 제어
 - PLC 스캔 순서로 인한 오류 분석 및 해결
-
----
-
-## 21. 프로젝트 결과
-
-이 프로젝트를 통해 PLC 기반 자동 소재 분류 및 창고 적재 시스템을 구현했습니다.
-
-최종 시스템은 다음 기능을 수행할 수 있습니다.
-
-- 전원 공급 후 안전한 초기화 수행
-- 동작 점검을 통한 장비 상태 확인
-- 소재 공급, 가공, 이송, 판별, 적재 자동 수행
-- 금속 / 비금속 소재 판별
-- 소재 종류와 수량에 따른 자동 적재
-- 적재 한도 초과 시 배출 동작 수행
-- 선택 적재 및 선택 비움 수행
-- 전체 창고 비움 수행
-- HMI를 통한 실시간 상태 모니터링
-- Tact Time 측정
-- 비상 상황에서 안전 정지
-- HMI를 통한 서보 위치 Teaching
-
-이 프로젝트는 PLC, HMI, 센서, 실린더, 모터, 서보 위치 제어를 하나의 자동화 공정으로 통합한 프로젝트입니다.
