@@ -687,9 +687,3 @@ HMI에서는 서보 위치, 서보 속도, 경고 번호, 에러 번호, 소재 
 - HMI를 통한 서보 위치 Teaching
 
 이 프로젝트는 PLC, HMI, 센서, 실린더, 모터, 서보 위치 제어를 하나의 자동화 공정으로 통합한 프로젝트입니다.
-
----
-
-## License
-
-This project was developed for educational purposes.
