@@ -1,5 +1,4 @@
-# PLC-MPS-Automated-Storage-System  
-## PLC & MPS 기반 자동 소재 분류 및 창고 적재 시스템
+# PLC & MPS 기반 자동 소재 분류 및 창고 적재 시스템
 
 ![PLC](https://img.shields.io/badge/Control-PLC-0052CC?style=for-the-badge)
 ![Mitsubishi](https://img.shields.io/badge/PLC-Mitsubishi%20Q%20Series-E60012?style=for-the-badge)
