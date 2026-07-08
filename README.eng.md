@@ -13,6 +13,8 @@
 > **Note**  
 > The README descriptions are provided in English, but the screenshots, ladder-logic images, HMI screens, and GIF captions are available in Korean only.
 
+[Korean README](./README.md)
+
 ---
 
 
