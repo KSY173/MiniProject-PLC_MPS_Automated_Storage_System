@@ -11,6 +11,7 @@
 ![HMI](https://img.shields.io/badge/UI-HMI%20Monitoring-FF69B4?style=for-the-badge)
 
 ---
+[English README](./README.eng.md)
 
 ## 프로젝트 개요
 
