@@ -1,5 +1,7 @@
 # PLC & MPS 기반 자동 소재 분류 및 창고 적재 시스템
 
+[English README](./README.eng.md)
+
 ![PLC](https://img.shields.io/badge/Control-PLC-0052CC?style=for-the-badge)
 ![Mitsubishi](https://img.shields.io/badge/PLC-Mitsubishi%20Q%20Series-E60012?style=for-the-badge)
 ![GX Works2](https://img.shields.io/badge/Software-GX%20Works2-1E90FF?style=for-the-badge)
@@ -9,8 +11,6 @@
 ![MPS](https://img.shields.io/badge/System-MPS%20Automation-444444?style=for-the-badge)
 ![Ladder Logic](https://img.shields.io/badge/Language-Ladder%20Logic-FFD43B?style=for-the-badge)
 ![HMI](https://img.shields.io/badge/UI-HMI%20Monitoring-FF69B4?style=for-the-badge)
-
-[English README](./README.eng.md)
 
 ---
 
