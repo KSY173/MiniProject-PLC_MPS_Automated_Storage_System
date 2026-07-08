@@ -1,5 +1,7 @@
 # PLC & MPS Based Automatic Material Sorting and Storage System
 
+[Korean README](./README.md)
+
 ![PLC](https://img.shields.io/badge/Control-PLC-0052CC?style=for-the-badge)
 ![Mitsubishi](https://img.shields.io/badge/PLC-Mitsubishi%20Q%20Series-E60012?style=for-the-badge)
 ![GX Works2](https://img.shields.io/badge/Software-GX%20Works2-1E90FF?style=for-the-badge)
@@ -12,8 +14,6 @@
 
 > **Note**  
 > The README descriptions are provided in English, but the screenshots, ladder-logic images, HMI screens, and GIF captions are available in Korean only.
-
-[Korean README](./README.md)
 
 ---
 
